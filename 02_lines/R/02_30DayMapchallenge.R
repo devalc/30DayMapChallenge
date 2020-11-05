@@ -1,8 +1,8 @@
 ## --------------------------------------------------------------------------------------##
 ##
-## Script name: 
+## Script name: 02_30DatMapChallenge.R
 ##
-## Purpose of the script:
+## Purpose of the script: lines
 ##
 ## Author: Chinmay Deval
 ##
