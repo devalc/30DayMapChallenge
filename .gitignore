@@ -19,3 +19,4 @@
 02_lines/data/vectors/wshed.shp.xml
 02_lines/data/vectors/wshed.shx
 01_points/data/cpcb_lakes_all_years_subset_variables.RDS
+04_hexagons/data/us_wildfires_1992_2015_kaggle/FPA_FOD_20170508.sqlite
