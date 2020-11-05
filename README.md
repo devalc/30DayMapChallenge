@@ -10,7 +10,7 @@ This repository contains my contributions to the 2020 #30DayMapChallenge.
 
 ## Day 2: Lines:
 
-![](https://github.com/devalc/MyContributions_to_30DayMapChallenge/blob/main/02_points/R/02_30DayMapChallenge.png)
+![](https://github.com/devalc/MyContributions_to_30DayMapChallenge/blob/main/02_lines/R/02_30DayMapChallenge.png)
 
 ## Day 3: Polygons:
 
@@ -18,4 +18,4 @@ This repository contains my contributions to the 2020 #30DayMapChallenge.
 
 ## Day 4: Hexagons:
 
-![](https://github.com/devalc/MyContributions_to_30DayMapChallenge/blob/main/04_hexagons/R/04_30DayMapChallenge.png)
+![](https://github.com/devalc/MyContributions_to_30DayMapChallenge/blob/main/04_hexagons/R/04_30DatMapChallenge.png)
