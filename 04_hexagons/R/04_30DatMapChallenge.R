@@ -29,6 +29,7 @@ library(geojsonio)
 library(rgeos)
 library(gridExtra)
 library(grid)
+library(broom)
 
 
 ## ----------------------------------------Hex Layer----------------------------------------------##
@@ -150,7 +151,7 @@ plt <- ggplot() +
   scale_fill_gradient(trans = "sqrt",na.value = "grey50",
                       low = "#FBEEE6", high =  "#900C3F",guide = "colourbar") +
   theme_void() +
-  ggtitle( "Statewise estimate of total area (sq.km) burnt during the 2014 fire year." ) +
+  ggtitle( "Statewise estimate of total burnt area (sq.km) during the 2014 fire year." ) +
   theme(legend.title = element_blank(),
         legend.position = "bottom",
         legend.text = element_text(angle = -90, color = "#ffffff"),
@@ -166,7 +167,7 @@ plt <- ggplot() +
 
 
 g <- grid.arrange(plt + 
-                    labs(caption="Data source: Kaggle\n(rtatman/188-million-us-wildfires)\nMap by: Chinmay Deval)"))
+                    labs(caption="Data source: Kaggle\n(rtatman/188-million-us-wildfires)\n Hex file: https://carto.com/\nMap by: Chinmay Deval"))
 
 
 ggsave("./04_hexagons/R/04_30DatMapChallenge.png",plot = g,
