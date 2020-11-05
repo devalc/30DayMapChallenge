@@ -2,7 +2,7 @@
 ##
 ## Script name: 04_30DatMapChallenge.R
 ##
-## Purpose of the script: Polygons
+## Purpose of the script: Hexagons
 ##
 ## Author: Chinmay Deval
 ##
