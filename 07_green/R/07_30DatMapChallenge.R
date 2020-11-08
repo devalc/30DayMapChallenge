@@ -26,7 +26,7 @@ library(raster)
 library(rgdal)
 library(animation)
 
-setwd("./07_green/data/test/")
+setwd("./07_green/data/rasters/")
 
 ##### read all rasters in a dir and stack them
 img <- list.files(pattern="*.tif$")
@@ -74,3 +74,11 @@ saveGIF(animate(stack,
         movie.name = "D:/GitHub/MyContributions_to_30DayMapChallenge/07_green/R/07_30DatMapChallenge.gif",
         clean = TRUE)
 
+saveVideo(animate(stack,
+                  addfun=fun,
+                  zlim=c(0.1, 0.9),
+                  main = date,
+                  pause=0.5, n=3, col = colfunc(15)),
+          video.name =  "D:/GitHub/MyContributions_to_30DayMapChallenge/07_green/R/07_30DatMapChallenge.mp4",
+          other.opts = "-pix_fmt yuv420p -b:v 500K",
+          ani.width = 400, ani.height = 400)
