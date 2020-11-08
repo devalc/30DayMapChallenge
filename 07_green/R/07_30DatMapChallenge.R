@@ -78,7 +78,7 @@ saveVideo(animate(stack,
                   addfun=fun,
                   zlim=c(0.1, 0.9),
                   main = date,
-                  pause=0.5, n=3, col = colfunc(15)),
+                  n=3, col = colfunc(15)),
           video.name =  "D:/GitHub/MyContributions_to_30DayMapChallenge/07_green/R/07_30DatMapChallenge.mp4",
           other.opts = "-pix_fmt yuv420p -b:v 500K",
-          ani.width = 400, ani.height = 400)
+          ani.width = 300, ani.height = 300)

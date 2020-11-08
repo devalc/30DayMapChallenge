@@ -20,6 +20,18 @@ This repository contains my contributions to the 2020 #30DayMapChallenge.
 
 ![](https://github.com/devalc/MyContributions_to_30DayMapChallenge/blob/main/04_hexagons/R/04_30DatMapChallenge.png)
 
-## Day 4: Blue:
+## Day 5: Blue:
 
 ![](https://github.com/devalc/30DayMapChallenge/blob/main/05_blue/R/05_30DatMapChallenge.PNG) 
+
+## Day 6: Red:
+
+### Pune, India
+![](https://github.com/devalc/30DayMapChallenge/blob/main/06_red/R/RoadNetworkPune.png) 
+
+### Utrecht,Netherlands
+![](https://github.com/devalc/30DayMapChallenge/blob/main/06_red/R/RoadNetworkUtrecht.png) 
+
+## Day 7: Green:
+
+![](https://github.com/devalc/30DayMapChallenge/blob/main/07_green/R/07_30DatMapChallenge.gif) 
