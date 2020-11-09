@@ -1,0 +1,2 @@
+Data taken from Kaggle:
+https://www.kaggle.com/us-drought-monitor/united-states-droughts-by-county
