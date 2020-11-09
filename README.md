@@ -34,4 +34,8 @@ This repository contains my contributions to the 2020 #30DayMapChallenge.
 
 ## Day 7: Green:
 
-![](https://github.com/devalc/30DayMapChallenge/blob/main/07_green/R/07_30DatMapChallenge.gif) 
+![](https://github.com/devalc/30DayMapChallenge/blob/main/07_green/R/07_30DatMapChallenge.gif)
+
+## Day 8: Yellow:
+
+![](https://github.com/devalc/30DayMapChallenge/blob/main/08_yellow/R/08_30DayMapChallenge.gif)
