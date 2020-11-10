@@ -22,3 +22,4 @@
 04_hexagons/data/us_wildfires_1992_2015_kaggle/FPA_FOD_20170508.sqlite
 08_yellow/data/county_info_2016.csv
 08_yellow/data/us-droughts.csv
+*.png
