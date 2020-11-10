@@ -43,5 +43,5 @@ This repository contains my contributions to the 2020 #30DayMapChallenge.
 
 ## Day 9: Monochrome:
 
-![](https://github.com/devalc/30DayMapChallenge/blob/main/09_monochrome/R/09_30DayMapChallenge.mp4)
+![](https://github.com/devalc/30DayMapChallenge/blob/main/09_monochrome/R/pune294.png)
 
