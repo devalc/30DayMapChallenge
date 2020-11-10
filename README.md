@@ -43,5 +43,7 @@ This repository contains my contributions to the 2020 #30DayMapChallenge.
 
 ## Day 9: Monochrome:
 
+#### 3D movie visualization can be found in 09_monochrome folder 
+
 ![](https://github.com/devalc/30DayMapChallenge/blob/main/09_monochrome/R/pune294.png)
 
