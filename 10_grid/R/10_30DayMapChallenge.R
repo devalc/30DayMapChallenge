@@ -37,5 +37,5 @@ fun <- function() {
 
 animation::saveGIF(animate(evap, addfun=fun, n = 1, stop= 0.5, col = hcl.colors(8, "Geyser"),
 ),movie.name = "D:/GitHub/MyContributions_to_30DayMapChallenge/10_grid/R/10_30DayMapChallenge.gif",
-convert = "convert", ani.width = 800,
-ani.height = 500)
+convert = "convert", ani.width = 1000,
+ani.height = 800)
