@@ -36,7 +36,7 @@ This repository contains my contributions to the 2020 #30DayMapChallenge.
 
 ## Day 6: Red:
 
-#### Road network in my home town (Pune, India) made using #osmplotr. The major roads are depicted using a lighter color.
+#### Road network in my home town (Pune, India). The major roads are depicted using a lighter color.
 
 ![](https://github.com/devalc/30DayMapChallenge/blob/main/06_red/R/RoadNetworkPune.png) 
 
