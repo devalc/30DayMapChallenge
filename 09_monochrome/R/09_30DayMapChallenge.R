@@ -2,9 +2,9 @@
 ##
 ## Script name: 09_30DayMapChallenge.R
 ##
-## Purpose of the script: Yellow
+## Purpose of the script: monochrome
 ##
-## Author: Chinmay Deval; Adapted from Donyoe(Kaggle)
+## Author: Chinmay Deval; 
 ##
 ## Created On: 2020-11-09
 ##
