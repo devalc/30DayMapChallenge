@@ -1,0 +1,38 @@
+File ./10_grid/data/Evap_m_day-1_FLUXNET_MTE_igb_2001_2007.nc (NC_FORMAT_CLASSIC):
+
+     1 variables (excluding dimension variables):
+        float Evap[lon,lat,time]   
+            standard_name: Evap
+            long_name: Evap
+            units: m.month-1
+            _FillValue: 1.00000002004088e+20
+            missing_value: 1.00000002004088e+20
+
+     3 dimensions:
+        lon  Size:420
+            standard_name: longitude
+            long_name: longitude
+            units: degrees_east
+            axis: X
+        lat  Size:276
+            standard_name: latitude
+            long_name: latitude
+            units: degrees_north
+            axis: Y
+        time  Size:84   *** is unlimited ***
+            standard_name: time
+            long_name: Days since 1901-01-01
+            units: days since 1901-01-01 00:00:00
+            calendar: standard
+
+    7 global attributes:
+        CDI: Climate Data Interface version ?? (http://mpimet.mpg.de/cdi)
+        Conventions: CF-1.4
+        history: Tue May 31 14:04:34 2016: cdo mulc,1000 Evap_mm_day-1_FLUXNET_MTE_igb_2001_2007.nc Evap_m_day-1_FLUXNET_MTE_igb_2001_2007.nc
+Mon May 30 15:13:45 2016: cdo divdpm Evap_mm_month-1_FLUXNET_MTE_igb_2001_2007.nc Evap_mm_day-1_FLUXNET_MTE_igb_2001_2007.nc
+Mon May 30 15:07:05 2016: cdo mulc,0.001 Evap_m_FLUXNET_MTE_igb_2001_2007.nc Evap_mm_month-1_FLUXNET_MTE_igb_2001_2007.nc
+Tue Mar 08 16:41:37 2016: cdo setctomiss,0 Evap_m_FLUXNET_MTE_igb_2001_2007.nc mis_Evap_m_FLUXNET_MTE_igb_2001_2007.nc
+        institution: None
+        description: None
+        title: None
+        CDO: Climate Data Operators version 1.6.9 (http://mpimet.mpg.de/cdo)
