@@ -64,3 +64,9 @@ This repository contains my contributions to the 2020 #30DayMapChallenge.
 #### Visualization shows FLUXNET ET (m/day) data over Indus, Ganges, Brahmaputra, Mahi, Narmada, Tapi, and Godavari River basins.  
 
 ![](https://github.com/devalc/30DayMapChallenge/blob/main/10_grid/R/10_30DayMapChallenge.gif)
+
+## Day 9: 3-D:
+
+#### 3-D visual of the topography in the upper Bhima River basin. 3-D movie of this visualization can be found in 09_monochrome folder.  
+
+![](https://github.com/devalc/30DayMapChallenge/blob/main/11_3d/R/pune707.png)
